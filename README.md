@@ -1,2 +1,2 @@
 # dkd
-Apps with ExtJS
+Apps with Senchatouch
